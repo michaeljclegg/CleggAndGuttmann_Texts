@@ -1,0 +1,57 @@
+---
+title: 'Notes on the Open Public Library'
+description: 'A proposal for a public project in Hamburg, Lüneburg University 1993'
+date: '1993-1-1 00:00:00'
+toc: 'true'
+minRead: 7
+image: /blog/Hamburg OPL.jpg
+head:
+  meta:
+    - name: 'keywords'
+      content: 'Public Project, Hamburg, Lüneburg University, Clegg & Guttmann, Achim Könneke, Cantz Verlag, 1993'
+    - name: 'author'
+      content: 'Clegg & Guttmann'
+    - name: 'description'
+      content: 'The text first appeared in the accompanying project documentation Clegg & Guttmann: Die Offene Bibliothek/The Open Public Library, edited by Achim Könneke on behalf of the Kulturbehörde der Freien und Hansestadt Hamburg, Cantz Verlag, 1994'
+    - name: 'og:title'
+      content: 'This is an OpenGraph title'
+---
+
+* _In 1993 Clegg & Guttmann realized The Open Public Library in Hamburg as part of the city's Art in Public Space project. They erected library cabinets in three different parts of the city and offered them to neighborhoods for active use_ 
+
+ 
+##  Introduction
+From the present point of view, the library is the environment where the image of knowledge is integrated with the image of state power and private patronage. Libraries are often located near government buildings. The architecture of libraries, especially in small towns, is often similar to that of other state institutions. Inside the library, it is very common to find portraits of presidents and patrons. The explanation of these facts may be rather involved. But one should acknowledge the fact that these features, as consistent as they are, are unrelated to the primary function. The second stage is to think of the library environment as being only partially determined by its primary function. The stage after that is to think about other possible ways to organize libraries.
+
+### The temple of learning
+"The temple of learning syndrome led, internally, to the hush quiet beloved by librarians and, externally, to an architectural style which made the new users feel oppressed rather than welcome and at ease and generally to an atmosphere repellent to many young people today."
+
+ The image of a large reading room where many self-absorbed citizens are working quietly on their respective projects is a formative image of the liberal-democratic concept of community. Each reader has his/her own subjectivity, his/her own internal monologue and life plan, but no man is an island. Often, young people feel repelled by the atmosphere of libraries because they have other democratic ideals. Rather than the secluded, monadic private spheres which touch each other ever so lightly, they prefer a more symbiotic model of a public which they find in the best rock 'n' roll concerts. They expect the breakdown of the private sphere and the emergence of a public subjectivity.
+
+### Order
+"The books are organized in abstract categories and the architecture of the library gives a concrete representation of the abstract system of organization."
+
+ The library offers a glimpse into an important process where abstract categories and values are translated into concrete institutional arrangements. More to the point, the environment of each library is supposed to embody an abstract system of organization. The belief that such processes of concretization are possible is the basis of the claim that bureaucratic institutions are presented as concretizations of the democratic ideals.
+
+## The Democratic Library
+The appeal of theories of direct democracy is derived, at least partially, from the dislike of bureaucracy. One may even go further and speak of direct democracy as being motivated by an antipathy towards abstractions in general. These are, not doubt, populist sentiments. Nevertheless, the target of the praxis of direct democrats is more specific, it concerns the "blindness of institutions", that is, the inability of institutions to perform their primary function. In that sense, the _Open Public Library_ is a model of a directly democratic institution. It is an attempt to strip libraries of their symbolic connection with state power and private patrons, and to make them more adapted to their primary function, that is, to the distribution of reading material among the population. The guidelines of the _Open Public Library_ are the following: 1. No hierarchy should be created by the _Open Public Library_, 2. No mechanism of security or control should defend the _Open Public Library_, 3. No auxiliary set of rules will be imposed on the users of the library beyond the definition of the library as a point where reading material is distributed for a limited amount of time, 4. No criteria for selecting the reading material will be employed.
+
+## The Library and the Museum
+ An interesting duality exists between libraries and museums. An elaborate system of labels makes it almost impossible to forget that the environment of the library, as spectacular as it may be, is subordinated to an abstract system of indexing. Therefore, one gains important insights when one concentrates on the physical organization of the library. The situation of museums is rather different. A lot more attention is usually paid by the visitor to the physical organization of the museum. The space is organized as a system of frames within frames which ultimately lead to the individual works of art. These works of art are the raison d'être of the museum. In a good museum the exhibition space should present itself as being subordinated to the peculiar character of the collection. The museum public offers another formative image of a democratic community. The attention of the viewers is gradually focused on the individual works of art. In the process they stop thinking about the contingencies of their concrete viewing experience and begin to be absorbed by the paintings and sculptures. The mundane observers find their capacity for absorption, for subjectivity; they discover their private spheres. The mechanism by which the attention is focused has to remain hidden. Otherwise, self-consciousness springs back to life and the capacity for absorption is lost. In particular, any system which contextualizes the individual works of art is a disruption which the keen aesthete learns to resent. Particular attention, then, should be paid to the abstract systems of organization of museums. One may expect to gain important insights when one directs one's attention to a system which was designed to remain invisible. We propose, therefore, to look at the library as museum of accumulated knowledge; that is, as an environment where books are installed. We suggest the name _Bibliopolis_, the city of books, to describe the details of the installation, or the physical environment of the library. The perspective of city planning seems particularly relevant. The individual shelf cabinets are to be regarded as city blocks with access to roads and transportation routes between them.
+
+## Social Sculpture 
+We also propose to look at the museum differently. Rather than being absorbed into the individual works of art, we propose to look at works of art as reflections of their immediate environment and, hence, to look at these works of art as being in and of themselves essentially incomplete. The principle guided the way that we conceived of the installation in the Kunstverein Hamburg, which accompanied the _Open Public Library_. The objects which we place in the museum – large photographs of the three locations of the _Open Public Library_, tables with documentary material, etc. – constituted merely one part of a larger whole which included the libraries themselves in their outdoor locations. This presented a dilemma to the viewer: Either making to do with an incomplete work, or leaving the museum in order to complete it. More generally, the project spawned many off-shoots which began to take independent forms that could not have been anticipated in advance. The students of Lüneburg University, for example, who interviewed people who used the open libraries, developed and interesting type of activism which extended the project in new directions. This activism-without-a-cause made it possible to have a new relationship with the local community. The users of the library were neither an art public, nor a politicized public. But the extraordinary and utopian aspects of the project made the library users engaged, implicitly, in questions about creativity and about social and political issues. The students were also empowered by the research because the acted as activists and not as passive onlookers.
+
+## New Duchampian Strategies
+Initially, the philosophical issues which were discussed in relation to Duchamp's ready-made concerned the pre-conditions which have to be satisfied for an object to be a work of art. These topics were already implicit in the discourse around the Cubist collages. The next group of issues raised by later reflections on the ready-made regarded the institutional arrangements necessary for exhibiting an object as a work of art. A third issue which needs to be raised concerns the identity of the art audience. In other words, what are the pre-conditions for an audience to be an art audience. When does an everyday experience shared by a group of people become an aesthetic experience? The _Open Public Library_ allowed us to begin to investigate this issue. Initially, the library users were clearly not an art audience. However, the _Open Public Library_ created a portrait of the community of users by allowing them to reflect on their responses to a novel proposition. Once this point was appreciated, the moment of self-reflection which the project made possible added substance to the claim that ii is interesting to view the project as art. More generally, questions concerning the defining features of the art experience and the art audience should guide our thinking about art institutions. Here, again, one may be inspired by the ideas of direct democracy. One should be prepared to confront the blindness of art institutions by inventing new forms that will enable art to be truer to its primary function, that is, an effective discourse on the possibilities of creativity and freedom.
+
+###
+
+## Notes
+The text first appeared in the accompanying project documentation _Clegg & Guttmann: Die Offene Bibliothek/The Open Public Library_, edited by Achim Könneke on behalf of the Kulturbehörde der Freien und Hansestadt Hamburg, Cantz Verlag, 1994.
+
+[1](#sdfootnote1anc) F. A. Sharr: „The Public Library: dodo or phoenix? New directions in public library policy", in: Barry Totterdell and Clive Bingley (Ed.), _Public Library Purpose_, London 1978
+
+[2](#sdfootnote2anc) Gulten S. Wagner: „Public Libraries as Agents of Communication", in: _The Scarecrow Press_, Metuchen/New Jersey, 1992
+
+ *Clegg & Guttmann is an artist duo consisting of Michael Clegg (\* 1957 in Dublin) and Yair Martin Guttmann (\* 1957 in Jerusalem). They have been working together since the 1980s. Michael Clegg was professor of artistic photography at the Staatliche Hochschule für Gestaltung in Karlsruhe. Yair Martin Guttmann teaches as a professor in the Department of Art and Photography at the Academy of Fine Arts Vienna. They have had numerous exhibitions in international art institutions and realized projects and monuments in public space. In addition to Hamburg, they realized the _Open Public Library_ in Graz (1991), Vienna (1992), Firminy (1993) and Mainz (1994)*
