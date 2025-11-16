@@ -1,0 +1,76 @@
+---
+title: 'Hundred and Twenty Years After the First Zionist Congress in Basel'
+description: 'An art-essay commemorating the 120th anniversary of the First Zionist Congress'
+date: '2017-01-01'
+original_event_date: '1897-08-29'
+venue: 'Kunstmuseum Basel, Basel, Switzerland'
+artists: 'Clegg & Guttmann'
+exhibition_type: 'Installation'
+readingTime: '15 min read'
+minRead: 15
+wordCount: 3000
+toc: true
+image: /blog/120 Years after the first Zionist Congress.jpg
+  head:
+  meta:
+    - name: 'keywords'
+      content: 'Zionism, Jewish History, Basel Congress, Art Essay, Historical Installation, Clegg & Guttmann'
+    - name: 'robots'
+      content: 'index, follow'
+    - name: 'author'
+      content: ' Clegg & Guttmann'
+    - name: 'copyright'
+      content: '© 2017 Clegg & Guttmann'
+    - name: 'description'
+      content: 'The text first appeared in the accompanying project documentation for the show Hundred and Twenty Years After the First Zionist Congress in Basel 2017'
+    - name: 'og:title'
+      content: 'This is an OpenGraph title'
+---
+
+# Hundred and Twenty Years After the First Zionist Congress in Basel
+
+**Clegg & Guttmann**
+
+---
+
+## 1. The Installation as Art-Essay
+
+The present installation of Clegg & Guttmann in the Kunstmuseum Basel is dedicated to a commemoration of the first Zionist Congress in Basel that took place 120 years ago in the year of 1897. The artists consider the project an art-essay on a historical topic where the aesthetic and the intellectual experience go hand in hand -- the spatial, sculptural and material qualities of the objects are meant to augment and enrich the historical material. On the other hand, the placement in the exhibition space of audio sources to present the relevant historical material induces a musical logic on the show, transforming it into an operatic environment.
+
+The artists - Michael Clegg and Martin Guttmann - are Israeli citizens who grew up in Jerusalem and are native speakers of Hebrew; the exhibition thus inevitably assumes also the character of a personal reflection. Both artists descend from Zionist families who immigrated to Palestine hoping to avoid being affected by anti-Semitism -- a threat they knew about only too well. Clegg's family left Corfu in the 1920's after a cruel, demoralizing pogrom made them realize they will never be safe there. Moshe Guttmann was on the Schindler's list; when the factory closed he was transferred to Mauthausen. Zipora Guttmann worked with a partisan unit until she was caught; after jumping from a moving train she spent the rest of the war pretending to be a Ukrainian peasant girl. The two met after the war; they were in their early twenties; they boarded a rickety boat that sailed from Genoa to Palestine; the British Navy intercepted the boat - at that time Britain was actively preventing the last remnants of the European Jewry from reaching a safe haven in Palestine - and my parents were imprisoned with the rest of the war weary passengers in a British concentration camp in Cyprus; they were able to arrive to Palestine only when the British left the Middle East abruptly in 1947. These autobiographic facts, needless to say, inform the artists' relation to the subject at hand.
+
+## 2. Evolution from the 1997 Exhibition
+
+The present installation is based on an earlier exhibition that the artists created in the Kunsthalle Basel in 1997 -- the centennial year of the First Zionist Congress in Basel. In that context too the exhibition space was divided into several sub-environments that represented various aspects of Jewish existence during the period when Herzl formed the idea of Zionism: The bourgeois salon; the Heder -- the traditional, religious Jewish school; the synagogue; the Zionist Congress in Basel; the Viennese café; the kibbutz dining-room. In the earlier version the supplementary material was presented in vitrines as well; as it is the case with the present installation, the artists had also presented books, newspapers and publications that the viewers were meant to read. The earlier version included the large portraits presented in the present show -- photographic prints from black and white negatives that the artists 'reanimated' by coloring.
+
+Despite these similarities, the present exhibition is a significantly different artwork. The inclusion of material presented through multi audio sources that operate simultaneously creates, as we mentioned, a musical environment that alters the experience of the viewers. The present exhibition also includes a new selection of primary sources -- the speeches in the Congress; religious texts like the bible and the Talmud; fin de siecle essays by Weininger and Krauss; later essays by Scholem and Hanah Arendt; texts of the Baal Shem Tov, Schnitzler and Zweig. This body of texts that the viewers may listen to as they move around in the exhibition space forms the 'intellectual skeleton' of the present installation.
+
+It should be mentioned that each environment has two different audio files. The first one represents the dominant or official point of view and the second, a perspective of the opposition. Herzl's dominant point of view, for example, is contrasted with the criticism of Asher Ginsberg (Ahad Ha'am); orthodox, rationalist Judaism is supplemented with a text about Jewish mysticism; the standard legal text of the Talmud is set next to a supernatural story by the father of the Hassidic movement. Any attempt to understand the discourse surrounding Zionism must emphasize the multiple viewpoints, competing interests and the general culture of argumentation and debate that the protagonists all shared.
+
+## 3. Historical Context and Contemporary Reflections
+
+In 2017 a number of other significant events related to Zionist and Israeli history were commemorated or acknowledged as well: The centennial of the Balfour declaration of 1917; seventy years since the UN voted in 1947 to partition Palestine and create two separate states for the Palestinians and the Jews; fifty years have passed since the Six Day War of 1967 when Israel conquered the West Bank of the Jordan river with its millions of Palestinian residents; 30 years since the Palestinian civil disobedience campaign of 1987 known as the first intifada. Each of these events sheds a different color on the entire history of Zionism; consequently, it is genuinely hard for the contemporary observer to avoid 'contaminating' the perception of earlier events with the hindsight knowledge of later ones. Difficult as it may be, we urge the viewer to focus on the original background of the Zionist conference; we hope that the present installation will be helpful in that regard; we would like to use the present occasion -- 120 years to the First Zionist Congress -- to emphasize the actual factors that created Zionism. We believe that regardless of one's views on various debates related to the movement -- the Palestinian problem, in particular -- one should understand the social origins of the movement and the spiritual strife of the Jewish individuals involved. These were after all the real reasons for the emergence of Zionism; later events, however important, should not be allowed to obscure this fact.
+
+The fact that the congress took place before WWI makes it difficult to view it in the same terms as the protagonists from that period; the Great War changed the world so deeply that in its immediately aftermath everything that took place earlier seemed ancient, irrelevant and hopelessly old fashioned. Herzl and Nordau were liberal thinkers; after the war liberalism was under attack. The two believed that science and technology could solve the problems of mankind whereas the post-war protagonists had deep suspicion about the ethos of science and technology. The two Zionists believed in international diplomacy; in their view the world was determined by the intrigues of the Great Powers who were busy carving the world among themselves. Indeed, the political Zionism of Herzl and Nordau was a direct result of their general conception; if you wanted to make a difference in a world defined by imperialism, you had better lobby the Great Powers -- the Sultan, the Kaiser, the Czar, the King; the post war youths abhorred that point of view.
+
+The Great War destroyed the world of Herzl and Nordau to smithereens. The Czar was toppled; the Bolsheviks took over. The Kaiser abdicated; the Social Democrats who replaced him proved weak and indecisive and soon enough Germany was divided between Nazis and communists. Austro-Hungary was split into a multitude of unstable nationalist regimes; the Turkish Empire collapsed and its spoils were divided between Britain and France. It was thus supremely ironic that the Balfour declaration, the greatest achievement of political Zionism, happened precisely at this point!
+
+## 4. The Post-War Generation and the Balfour Declaration
+
+The post-war Zionist youth was not particularly enthusiastic about the declaration; most of them were, to begin with, revolutionary leftists who despised the imperialist powers and believed their days were numbered; they could not accept the type of Zionism that was predicated on negotiations with the Great Powers. These young Zionists also understood the murky motives lying behind the declaration -- an odd evangelical philo-Semitism combined with a high dosage of anti-Semitic beliefs about the financial prowess of the international Jewry that would be diverted elsewhere if Britain did not show its support; (there was even a rumor that the US government will not join the war against Germany otherwise!) Others pointed to the large number of influential Jews in the higher echelons of the Bolshevik regime and being completely clueless -- Lenin explicitly rejected Zionism - hoped that supporting a Jewish national home in Palestine will elicit their sympathy. Ten years later, when the British realized their mistakes, they switched to an equally cynical strategy based on racist beliefs about the mythical power of the Arab nation that proved as erroneous -- despite the anti-Zionist policies of the British mandate the Arabs had no intention of supporting them in the war against Nazi Germany. Be that as it may, Britain altered its course, favored he Arabs and prevented Jewish immigration to Palestine.
+
+### Gershom Scholem and Cultural Zionism
+
+Gershom Scholem who lived around the corner from us in Jerusalem was one of the Zionist youths who became highly critical of political Zionism after the war; in a letter to the Zionist leadership he warned against relying on Britain's declaration and thought it was unworthy of the movement to depend on such immoral, discredited allies. In fact, Scholem was mostly uninterested in the political dimension of Zionism in its entirety; he came to Palestine expecting a renaissance of Jewish culture -- the hope that the Jews who come to Palestine create a secular culture with Jewish characteristic that will rejuvenate the Jews and become "a light to the nations". Scholem supported a bi-national secular democratic state for both Palestinians and Jews; after the Arab nationalist pogrom of 1929, though, this point of view vanished almost completely from the public discourse. Even though Scholem did not join a kibbutz he was sympathetic to Hashomer Hatzair which members began to establish kibbutzim when he arrived at Palestine in 1923. Like many leaders of the kibbutz movement, the young scholar was an anarchist sympathizer who was adamant about avoiding exploitation in any shape and form.
+
+Scholem wrote that he immigrated to Palestine because for Jewish youths like him the atmosphere in Germany was asphyxiating. He described at length how his parents and their Jewish relatives and acquaintances constantly deceived themselves they were fully accepted in German society despite all the evidence to the contrary; the young man was increasingly disgusted by the failure of that generation to come to terms with the truth. In fact, Scholem's situation was not dramatically different from Herzl's; when the father of Zionism was a young man he faced a very similar situation in fin de siècle Vienna. The difference between the two was that young Scholem could choose Zionism while Herzl had to invent it. That was in a nutshell what Zionism meant circa 1920 -- at least to some. 23 years after the first Zionist congress a younger generation of European Jews that included Scholem, Benjamin, Arendt and countless others were no longer doomed to live demoralized, paralyzed lives. Not all of them chose Zionism, of course; some chose communism, others anarchism and many vacillated between the different points of view. The very fact that Zionism existed, though, made a fundamental difference in the lives of them all.
+
+## 5. The Russian Jewish Experience
+
+The largest group in the first Zionist Congress was Russian. Arguably, the Jews in that part of the world went through a number of extraordinary processes that prepared them for modern Zionism: In the 1870's they were finally allowed to attend Russian high schools and they took full advantage of that possibility. Thousands of young Jews learnt Russian, read Pushkin, Tolstoy and Turgeniev, finished their exams and joined society at large. Hundreds of them joined the Narodniks almost immediately -- a group of idealist youths who tried to agitate the peasants to revolt against the Czar; many remained in the movement even when it turned into a terrorist organization. From that point on a revolutionary ethos involving moral outrage, self-sacrifice and contempt for bourgeois morals became deeply engrained among the Russian Jewish youth. That mentality proved to be a fertile ground for Zionism as well. Needless to say, the increasing ferocity and frequency of the anti-Semitic pogroms helped too.
+
+Many of the post war Zionist pioneers from Russia took part in the failed revolution of 1905. That was when a significant group began to gravitate towards the Bolsheviks; others decided to mix socialism and Zionism. That was the main group that began to settle the land of Palestine in record speed by founding a network of kibbutzim. That generation retained the idealism and moral courage of the Narodniky as well as their penchant for self-sacrifice. They were adamantly against exploitation, insisting on working their fields on their own rather than using hired hands. Many were pacifists who eventually learned they had to defend themselves from sporadic attacks by Arab nationalist forces and bands of local bandits.
+
+## 6. The Exhibition as Mosaic
+
+The present exhibition is a mosaic of all these points of view. You hear the standard Jewish learning and the supernatural stories of a young religious students; A bible reading and the voice of Messianic mysticism; a story of a bourgeois salon and the perverse theories of the café set; the call of the Old-New Land and the response of the diaspora. These ghostly voices tell the story of the First Zionist Congress that took place in this city hundred and twenty years ago.

@@ -12,11 +12,7 @@ if (!posts.value) {
 }
 
 const formatDate = (dateString: string) => {
-  return new Date(dateString).toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
-  })
+  return new Date(dateString).getFullYear().toString()
 }
 
 // No transformation needed - use posts directly
@@ -31,10 +27,10 @@ useSeoMeta({
   <UPage>
     <UPageHeader class="mt-10">
       <div class="text-2xl">
-        AllTexts
+        Texts
       </div>
       <div class="text-sm text-muted mt-2">
-        List of all C&G texts sorted by date
+        Sorted by date
       </div>
     </UPageHeader>
     <UPageSection
@@ -51,7 +47,7 @@ useSeoMeta({
           <ULink
             :to="post.path"
             :title="post.description || ''"
-            class="flex-1 text-lg font-semibold text-highlighted hover:text-primary transition-colors cursor-pointer"
+            class="flex-1 text-md font-semibold text-highlighted hover:text-primary transition-colors cursor-pointer"
           >
             {{ post.title }}
           </ULink>
