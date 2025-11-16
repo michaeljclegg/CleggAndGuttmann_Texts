@@ -5,7 +5,7 @@ defineProps<{
   links: NavigationMenuItem[]
 }>()
 
-const version = ref(3)
+const version = ref(4)
 </script>
 
 <template>
