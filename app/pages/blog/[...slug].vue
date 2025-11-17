@@ -162,13 +162,17 @@ const scrollToTop = () => {
               </button>
             </template>
             <template #link="{ link }">
-              <a
-                :href="`#${link.id}`"
-                :title="link.text"
-                class="group relative text-xs flex items-center focus-visible:outline-primary py-1 text-neutral hover:text-neutral/80 transition-colors"
+              <UTooltip
+                :text="link.text"
+                :content="{ align: 'start' }"
               >
-                <span class="truncate">{{ link.text }}</span>
-              </a>
+                <a
+                  :href="`#${link.id}`"
+                  class="group relative text-xs flex items-center focus-visible:outline-primary py-1 text-neutral hover:text-neutral/80 transition-colors"
+                >
+                  <span class="truncate">{{ link.text }}</span>
+                </a>
+              </UTooltip>
             </template>
           </UContentToc>
           </div>

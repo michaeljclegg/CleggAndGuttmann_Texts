@@ -7,8 +7,21 @@ venue: 'Georg Kargl Fine Arts'
 location: 'Vienna, Austria'
 artists: 'Clegg & Guttmann'
 Exhibition dates: November 13, 2009 - January 9, 2010
-readingTime: '3 min read'
-toc: true
+image: /blog/Rus-in-Urbis.jpg
+minRead: 3
+toc: 'true'
+head:
+  meta:
+  name: 'keywords'    
+  content: 'Clegg & Guttmann, Variants of Aesthetic Collectivism, 2009, Vienna, Austria,  Public Project, Georg Kargl Fine Arts, 2009, Vienna, Austria'
+  name: 'robots'
+  content: 'index, follow'
+  name: 'copyright'
+  content: '© 2023 Clegg & Guttmann'
+  name: 'description'
+  content: 'The text first appeared in the as a press release for the Clegg & Guttmann show Georg Kargl Fine Arts, Vienna 2009'
+  name: 'og:title'
+  content: 'This is an OpenGraph title'
 ---
 
 ## Introduction
