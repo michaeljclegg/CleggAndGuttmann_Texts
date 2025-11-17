@@ -3,12 +3,27 @@ title: 'Variants of Aesthetic Collectivism'
 description: 'An exhibition exploring collective aesthetic experience through collaborative artworks'
 date: '2009-11-13'
 endDate: '2010-01-09'
+toc: 'true'
 venue: 'Georg Kargl Fine Arts'
 location: 'Vienna, Austria'
 artists: 'Clegg & Guttmann'
-Exhibition dates: November 13, 2009 - January 9, 2010
-readingTime: '3 min read'
-toc: true
+minRead: 3
+wordCount: 1000
+image: /blog/Rus-in-Urbis.jpg
+head:
+  meta:
+    - name: 'keywords'
+      content: 'Public Project, 2006, German , Clegg & Guttmann'
+    - name: 'robots'
+      content: 'index, follow'
+    - name: 'author'
+      content: 'Michael Clegg and Martin Guttmann'
+    - name: 'copyright'
+      content: '© 2006 Clegg & Guttmann'
+    - name: 'description'
+      content: 'The text first appeared in the accompanying project documentation Clegg & Guttmann: Die Offene Bibliothek/The Open Public Library, edited by Achim Könneke on behalf of the Kulturbehörde der Freien und Hansestadt Hamburg, Cantz Verlag, 1994'
+    - name: 'og:title'
+      content: 'This is an OpenGraph title'
 ---
 
 ## Introduction

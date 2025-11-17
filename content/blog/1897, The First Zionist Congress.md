@@ -2,9 +2,9 @@
 title: "1897, The First Zionist Congress"
 description: Catalog text for the show at the Basel Kunstverein 1998
 date: 1998-01-01 00:00:00
+toc: 'true'
 image: /blog/Installation the First Zionist Congress in Basel 1987 Basel Kunsthalle.jpg
 minRead: 15
-toc: 'true'
 head:
   meta:
     - name: 'keywords'

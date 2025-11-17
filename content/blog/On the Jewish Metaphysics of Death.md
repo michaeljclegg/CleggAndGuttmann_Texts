@@ -2,14 +2,13 @@
 title: 'On the Jewish Metaphysics of Death'
 description: 'The Open Public Library in the Jewish Cemetery in Piaristenkirche Krems, Austria 2004'
 date: '2004-01-01'
+toc: 'true'
 location: 'Krems, Lower Austria'
 project_type: 'Open Public Library'
 artists: 'Clegg & Guttmann'
-readingTime: '5 min read'
 minRead: 5
 wordCount: 1095
-toc: true
-image: blog/JMD_Krems03.jpg
+image: /blog/JMD_Krems03.jpg
 minRead: 6
 author: Clegg & Guttmann
 photo_credit: 'Christian Wachter, 2004'
